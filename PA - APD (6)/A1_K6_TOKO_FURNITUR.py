@@ -1,3 +1,6 @@
+# [6] Algoritma Pemrograman Dasar Semester 1
+# Made by Muhammad Arya Fayyadh Razan, Ammar Nabil Fauzan, Indi Oktaria Cahyani
+
 # IMPORT LIBRARY
 import os                           # Untuk mengecek sistem operasi
 from tabulate import tabulate       # Untuk membuat tabel
